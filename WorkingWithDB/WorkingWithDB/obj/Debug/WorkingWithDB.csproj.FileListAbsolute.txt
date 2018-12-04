@@ -1,0 +1,10 @@
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.exe
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\bin\Debug\WorkingWithDB.pdb
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csprojResolveAssemblyReference.cache
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Form1.resources
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.Properties.Resources.resources
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.GenerateResource.Cache
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.csproj.CoreCompileInputs.cache
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.exe
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\obj\Debug\WorkingWithDB.pdb
+C:\Users\Vladimir\source\repos\WorkingWithDB\WorkingWithDB\bin\Debug\Oracle.DataAccess.dll
